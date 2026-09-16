@@ -1,0 +1,166 @@
+{
+  "lang": "lv",
+  "meta": {
+    "title": "GG Garage — dārza un celtniecības tehnikas remonts Ogrē",
+    "description": "Dārza un celtniecības tehnikas remonts Ogrē. Zāles pļāvēji, trimmeri, motorzāģi, mauriņa traktori, zemes frēzes, blietes, ģeneratori un DAEWOO garantijas serviss.",
+    "og_locale": "lv_LV"
+  },
+  "nav": {
+    "garden": "Dārza tehnikas remonts",
+    "construction": "Celtniecības tehnikas remonts",
+    "warranty": "Garantijas serviss",
+    "parts": "Rezerves daļas",
+    "reviews": "Atsauksmes",
+    "contact": "Kontakti",
+    "form": "Pieteikt remontu"
+  },
+  "hero": {
+    "eyebrow": "Serviss Ogrē",
+    "title": "Tehnika atkal",
+    "accent": "darbā.",
+    "lead": "Dārza un celtniecības tehnikas remonts, diagnostika un DAEWOO garantijas serviss vienuviet.",
+    "primary": "Pieteikt remontu",
+    "secondary": "Zvanīt 20247971",
+    "badge1": "Dārza tehnika",
+    "badge2": "Celtniecības tehnika",
+    "badge3": "DAEWOO garantija"
+  },
+  "garden": {
+    "kicker": "01 / Serviss",
+    "title": "Dārza tehnikas remonts",
+    "intro": "Veicam izplatītākās dārza tehnikas diagnostiku un remontu.",
+    "items": [
+      "Zāles pļāvēju remonts",
+      "Trimmeru remonts",
+      "Motorzāģu remonts",
+      "Mauriņa traktoru remonts",
+      "Zemes frēžu remonts"
+    ],
+    "cta": "Pieteikt dārza tehniku"
+  },
+  "construction": {
+    "kicker": "02 / Serviss",
+    "title": "Celtniecības tehnikas remonts",
+    "intro": "Serviss tehnikai, kas nepieciešama objektā un ikdienas darbā.",
+    "items": [
+      "Blietes",
+      "Ģeneratori",
+      "Cita tehnika"
+    ],
+    "cta": "Pieteikt celtniecības tehniku"
+  },
+  "warranty": {
+    "kicker": "03 / Garantija",
+    "title": "Oficiāls DAEWOO garantijas serviss",
+    "intro": "Nodrošinām oficiālu garantijas servisu DAEWOO zīmola tehnikai.",
+    "items": [
+      {
+        "title": "Defektu diagnostika un remonts",
+        "text": "Nosakām bojājuma iemeslu un veicam nepieciešamo garantijas remontu."
+      },
+      {
+        "title": "Rezerves daļu nomaiņa",
+        "text": "Garantijas remonta ietvaros nomainām nepieciešamās rezerves daļas."
+      },
+      {
+        "title": "Tehnikas testēšana",
+        "text": "Pēc remonta pārbaudām tehnikas darbību."
+      }
+    ],
+    "note": "Garantijas servisam varat pieteikties, aizpildot pieteikuma formu mūsu mājaslapā, sazinoties ar mūsu servisa centru vai veikalu, kurā tehnikas vienību iegādājāties.",
+    "cta": "Pieteikt garantijas servisu"
+  },
+  "parts": {
+    "kicker": "04 / Detaļas",
+    "title": "Rezerves daļas",
+    "intro": "Jautājiet par rezerves daļu pieejamību konkrētam tehnikas modelim. Pieteikumā norādiet zīmolu, modeli un, ja zināms, detaļas numuru.",
+    "cta": "Nosūtīt pieprasījumu"
+  },
+  "process": {
+    "kicker": "Kā tas notiek",
+    "title": "Vienkāršs ceļš no pieteikuma līdz salabotai tehnikai",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Pieteikums",
+        "text": "Aizpildiet formu vai sazinieties ar mums pa tālruni."
+      },
+      {
+        "n": "02",
+        "title": "Diagnostika",
+        "text": "Pārbaudām tehniku un precizējam nepieciešamos darbus."
+      },
+      {
+        "n": "03",
+        "title": "Remonts",
+        "text": "Veicam saskaņoto remontu un nepieciešamo detaļu nomaiņu."
+      },
+      {
+        "n": "04",
+        "title": "Pārbaude",
+        "text": "Pēc remonta pārbaudām darbību un informējam par saņemšanu."
+      }
+    ]
+  },
+  "brands": {
+    "kicker": "Garantijas partneris",
+    "title": "DAEWOO tehnikas garantijas serviss",
+    "text": "DAEWOO zīmola tehnikai nodrošinām oficiālu garantijas servisu.",
+    "brand": "DAEWOO"
+  },
+  "reviews": {
+    "kicker": "05 / Atsauksmes",
+    "title": "Jūsu atsauksme mums ir svarīga",
+    "text": "Ja GG Garage jau ir palīdzējis jūsu tehnikai atgriezties darbā, priecāsimies par atsauksmi Facebook.",
+    "cta": "Atstāt atsauksmi Facebook",
+    "social_title": "Seko GG Garage"
+  },
+  "contact": {
+    "kicker": "06 / Kontakti",
+    "title": "Sazinies ar GG Garage",
+    "phone_label": "Tālrunis",
+    "phone": "20247971",
+    "email_label": "E-pasts",
+    "email": "gggarage@gmail.com",
+    "address_label": "Adrese",
+    "address": "Akmeņu iela 24, Ogre, LV-5001",
+    "map": "Atvērt kartē"
+  },
+  "form": {
+    "kicker": "Servisa pieteikums",
+    "title": "Piesaki tehniku remontam",
+    "intro": "Aizpildi īso formu. Jo precīzāku informāciju norādīsi, jo vieglāk būs sagatavoties diagnostikai.",
+    "name": "Vārds, uzvārds",
+    "phone": "Tālrunis",
+    "email": "E-pasts",
+    "service": "Pakalpojuma veids",
+    "service_placeholder": "Izvēlieties",
+    "service_options": [
+      "Dārza tehnikas remonts",
+      "Celtniecības tehnikas remonts",
+      "DAEWOO garantijas serviss",
+      "Rezerves daļas",
+      "Cits"
+    ],
+    "equipment": "Tehnikas veids",
+    "equipment_placeholder": "Piem., zāles pļāvējs",
+    "brand_model": "Zīmols un modelis",
+    "brand_model_placeholder": "Piem., DAEWOO ...",
+    "issue": "Apraksti problēmu",
+    "issue_placeholder": "Kas noticis, kādi simptomi, kad problēma sākās?",
+    "contact_method": "Vēlamais saziņas veids",
+    "contact_phone": "Tālrunis",
+    "contact_email": "E-pasts",
+    "consent": "Piekrītu, ka norādītie dati tiek izmantoti saziņai par šo servisa pieteikumu.",
+    "submit": "Nosūtīt pieteikumu",
+    "sending": "Nosūta...",
+    "success": "Paldies! Pieteikums ir saņemts. Sazināsimies ar jums, izmantojot norādīto kontaktinformāciju.",
+    "error": "Pieteikumu neizdevās nosūtīt. Lūdzu, mēģiniet vēlreiz vai sazinieties pa tālruni 20247971.",
+    "required": "Obligāts lauks"
+  },
+  "footer": {
+    "tagline": "Dārza un celtniecības tehnikas serviss Ogrē.",
+    "rights": "Visas tiesības aizsargātas.",
+    "agency": "Mājaslapa: DigitalPulse"
+  }
+}

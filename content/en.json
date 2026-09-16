@@ -1,0 +1,166 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "GG Garage — garden & construction equipment repair in Ogre",
+    "description": "Garden and construction equipment repair in Ogre. Lawn mowers, trimmers, chainsaws, ride-on mowers, tillers, plate compactors, generators and DAEWOO warranty service.",
+    "og_locale": "en_GB"
+  },
+  "nav": {
+    "garden": "Garden equipment repair",
+    "construction": "Construction equipment repair",
+    "warranty": "Warranty service",
+    "parts": "Spare parts",
+    "reviews": "Reviews",
+    "contact": "Contacts",
+    "form": "Book a repair"
+  },
+  "hero": {
+    "eyebrow": "Service centre in Ogre",
+    "title": "Get your equipment",
+    "accent": "back to work.",
+    "lead": "Garden and construction equipment repair, diagnostics and DAEWOO warranty service in one place.",
+    "primary": "Book a repair",
+    "secondary": "Call 20247971",
+    "badge1": "Garden equipment",
+    "badge2": "Construction equipment",
+    "badge3": "DAEWOO warranty"
+  },
+  "garden": {
+    "kicker": "01 / Service",
+    "title": "Garden equipment repair",
+    "intro": "Diagnostics and repair for common types of garden equipment.",
+    "items": [
+      "Lawn mower repair",
+      "Trimmer repair",
+      "Chainsaw repair",
+      "Ride-on mower repair",
+      "Rotary tiller repair"
+    ],
+    "cta": "Book garden equipment"
+  },
+  "construction": {
+    "kicker": "02 / Service",
+    "title": "Construction equipment repair",
+    "intro": "Service for equipment used on site and in everyday work.",
+    "items": [
+      "Plate compactors",
+      "Generators",
+      "Other equipment"
+    ],
+    "cta": "Book construction equipment"
+  },
+  "warranty": {
+    "kicker": "03 / Warranty",
+    "title": "Official DAEWOO warranty service",
+    "intro": "We provide official warranty service for DAEWOO equipment.",
+    "items": [
+      {
+        "title": "Fault diagnostics and repair",
+        "text": "We identify the cause of the fault and carry out the required warranty repair."
+      },
+      {
+        "title": "Spare part replacement",
+        "text": "Required spare parts are replaced as part of the warranty repair."
+      },
+      {
+        "title": "Post-repair testing",
+        "text": "We test the equipment after the repair is completed."
+      }
+    ],
+    "note": "You can request warranty service by completing the form on our website, contacting our service centre, or contacting the shop where you purchased the equipment.",
+    "cta": "Book warranty service"
+  },
+  "parts": {
+    "kicker": "04 / Parts",
+    "title": "Spare parts",
+    "intro": "Ask about spare part availability for a specific equipment model. Please include the brand, model and, if known, the part number in your request.",
+    "cta": "Send an enquiry"
+  },
+  "process": {
+    "kicker": "How it works",
+    "title": "A simple path from request to repaired equipment",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Request",
+        "text": "Complete the form or contact us by phone."
+      },
+      {
+        "n": "02",
+        "title": "Diagnostics",
+        "text": "We inspect the equipment and confirm the work required."
+      },
+      {
+        "n": "03",
+        "title": "Repair",
+        "text": "We carry out the agreed repair and replace parts where required."
+      },
+      {
+        "n": "04",
+        "title": "Testing",
+        "text": "After the repair, we test the equipment and let you know when it is ready."
+      }
+    ]
+  },
+  "brands": {
+    "kicker": "Warranty partner",
+    "title": "DAEWOO equipment warranty service",
+    "text": "We provide official warranty service for DAEWOO equipment.",
+    "brand": "DAEWOO"
+  },
+  "reviews": {
+    "kicker": "05 / Reviews",
+    "title": "Your feedback matters",
+    "text": "If GG Garage has already helped get your equipment back to work, we would appreciate a review on Facebook.",
+    "cta": "Leave a Facebook review",
+    "social_title": "Follow GG Garage"
+  },
+  "contact": {
+    "kicker": "06 / Contacts",
+    "title": "Contact GG Garage",
+    "phone_label": "Phone",
+    "phone": "20247971",
+    "email_label": "Email",
+    "email": "gggarage@gmail.com",
+    "address_label": "Address",
+    "address": "Akmeņu iela 24, Ogre, LV-5001, Latvia",
+    "map": "Open map"
+  },
+  "form": {
+    "kicker": "Service request",
+    "title": "Book your equipment for repair",
+    "intro": "Complete the short form. The more detail you provide, the easier it is for us to prepare for diagnostics.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "service": "Service type",
+    "service_placeholder": "Select an option",
+    "service_options": [
+      "Garden equipment repair",
+      "Construction equipment repair",
+      "DAEWOO warranty service",
+      "Spare parts",
+      "Other"
+    ],
+    "equipment": "Equipment type",
+    "equipment_placeholder": "E.g. lawn mower",
+    "brand_model": "Brand and model",
+    "brand_model_placeholder": "E.g. DAEWOO ...",
+    "issue": "Describe the problem",
+    "issue_placeholder": "What happened, what are the symptoms, and when did the problem start?",
+    "contact_method": "Preferred contact method",
+    "contact_phone": "Phone",
+    "contact_email": "Email",
+    "consent": "I agree that the information provided may be used to contact me about this service request.",
+    "submit": "Send request",
+    "sending": "Sending...",
+    "success": "Thank you! Your request has been received. We will contact you using the details provided.",
+    "error": "We could not send your request. Please try again or call 20247971.",
+    "required": "Required field"
+  },
+  "footer": {
+    "tagline": "Garden and construction equipment service in Ogre.",
+    "rights": "All rights reserved.",
+    "agency": "Website: DigitalPulse"
+  }
+}
